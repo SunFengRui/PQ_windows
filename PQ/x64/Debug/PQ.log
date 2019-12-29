@@ -1,0 +1,18 @@
+﻿  Uic'ing pq.ui...
+  Rcc'ing pq.qrc...
+  Moc'ing pq.h...
+   RCC: Warning: No resources in 'E:\sunfengrui\PowerQuality\PQ4.29\PQ\PQ\pq.qrc'.
+  data.cpp
+  DList.cpp
+  main.cpp
+  netfunction.cpp
+  pq.cpp
+  timer.cpp
+  tool.cpp
+  V_Dip_Swell_Interrupt.cpp
+  workthread.cpp
+  qrc_pq.cpp
+  moc_pq.cpp
+e:\sunfengrui\powerquality\pq4.29\pq\pq\main.cpp(43): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\sunfengrui\powerquality\pq4.29\pq\pq\pq.cpp(141): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PQ.vcxproj -> E:\sunfengrui\PowerQuality\PQ4.29\PQ\x64\Debug\PQ.exe
